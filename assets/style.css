@@ -1,0 +1,22 @@
+.perfil-profesional {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: antiquewhite;
+}
+  
+.texto_perfil-profesional{
+    display: inline-block;
+    vertical-align: top;
+}
+  
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.imagen {
+    margin: 2.7em;
+    width: 100em;
+    padding: 10em 15em 10em 15em;
+}
